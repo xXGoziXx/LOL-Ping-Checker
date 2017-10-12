@@ -1,0 +1,5 @@
+﻿  LOL Ping Checker.cpp
+c:\users\gosar\google drive\coding_folder\c++\lol ping checker\lol ping checker\lol ping checker.cpp(284): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\gosar\google drive\coding_folder\c++\lol ping checker\lol ping checker\lol ping checker.cpp(291): warning C4267: 'argument': conversion from 'size_t' to 'WORD', possible loss of data
+  LOL Ping Checker.vcxproj -> C:\Users\gosar\Google Drive\Coding_Folder\C++\LOL Ping Checker\x64\Debug\LOL Ping Checker.exe
+  LOL Ping Checker.vcxproj -> C:\Users\gosar\Google Drive\Coding_Folder\C++\LOL Ping Checker\x64\Debug\LOL Ping Checker.pdb (Full PDB)

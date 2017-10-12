@@ -1,0 +1,2 @@
+﻿  LOL Ping Checker.cpp
+c:\users\gosar\google drive\coding_folder\c++\lol ping checker\lol ping checker\lol ping checker.cpp(4): fatal error C1041: cannot open program database 'C:\Users\gosar\Google Drive\Coding_Folder\C++\LOL Ping Checker\LOL Ping Checker\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
